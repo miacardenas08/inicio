@@ -1,5 +1,13 @@
 let añoNacimiento=2008
 alert('16')
 
-let quintoAño= ' materias'
-if (aprobarMaterias) = "no me llevo nada"
+
+let entregoTp
+let aprueboExamenes
+let aprueboTrimestre
+if ((entregoTp) && (aprueboExamenes>=6)){
+    alert ('Aprobaste el trimestre')
+}
+else {
+   alert ('desaprobaste el trimestre')
+}
